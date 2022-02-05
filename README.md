@@ -1,4 +1,4 @@
-# Curvee
+# Mathseezy
 
 An android app created in flutter that helps user to learn maths. With simple UI this App is espicially designed for students who want to explore and visualize maths.
 Did this project just for fun. 
